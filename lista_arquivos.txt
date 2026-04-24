@@ -1,0 +1,8 @@
+total 10
+drwxr-xr-x 1 ventura 1049089  0 Apr 24 15:24 ./
+drwxr-xr-x 1 ventura 1049089  0 Apr 24 14:32 ../
+drwxr-xr-x 1 ventura 1049089  0 Apr 24 15:23 .git/
+-rw-r--r-- 1 ventura 1049089  0 Apr 24 15:19 comandos2.txt
+-rw-r--r-- 1 ventura 1049089 26 Apr 24 15:21 comandos3.txt
+-rw-r--r-- 1 ventura 1049089 25 Apr 24 14:40 comandos_git.txt
+-rw-r--r-- 1 ventura 1049089  0 Apr 24 15:24 lista_arquivos.txt
