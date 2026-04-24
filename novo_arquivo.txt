@@ -1,1 +1,11 @@
-teste2
+total 13
+drwxr-xr-x 1 ventura 1049089   0 Apr 24 17:16 ./
+drwxr-xr-x 1 ventura 1049089   0 Apr 24 14:32 ../
+drwxr-xr-x 1 ventura 1049089   0 Apr 24 17:15 .git/
+-rw-r--r-- 1 ventura 1049089  44 Apr 24 16:28 comando_branch.txt
+-rw-r--r-- 1 ventura 1049089   0 Apr 24 15:19 comandos2.txt
+-rw-r--r-- 1 ventura 1049089  26 Apr 24 15:21 comandos3.txt
+-rw-r--r-- 1 ventura 1049089  25 Apr 24 14:40 comandos_git.txt
+-rw-r--r-- 1 ventura 1049089 401 Apr 24 15:24 lista_arquivos.txt
+-rw-r--r-- 1 ventura 1049089 479 Apr 24 16:29 lista_files.txt
+-rw-r--r-- 1 ventura 1049089   0 Apr 24 17:16 novo_arquivo.txt
